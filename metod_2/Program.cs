@@ -1,4 +1,4 @@
-﻿// Метод 2 НЕ возвращает, принимает
+﻿// Метод 2 принимает и НЕ возвращает
 void Method2(string msg)
 {
   Console.WriteLine(msg);  
