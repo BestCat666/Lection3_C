@@ -6,4 +6,5 @@ for (int i = 2; i <=10; i++)
     {
        Console.WriteLine($"{i} х {j}={i*j}"); // интерполяция 
     }
+    Console.WriteLine();
 }
